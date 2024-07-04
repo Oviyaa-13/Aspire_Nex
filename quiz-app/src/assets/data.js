@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "The young one of a sheep is called a ?",
+    option1: "Puppy",
+    option2: "Lamb",
+    option3: "Kid",
+    option4: "Calf",
+    ans: 2,
+  },
+  {
+    question: "What is the boiling point of water?",
+    option1: "25°C",
+    option2: "50°C",
+    option3: "100°C",
+    option4: "75°C",
+    ans: 3,
+  },
+  {
+    question: "Which of the following groups of animals have scales?",
+    option1: "Mammals",
+    option2: "Reptiles",
+    option3: "Amphibians",
+    option4: "Birds",
+    ans: 2,
+  },
+  {
+    question: "What part of the skeletal system protects our brain?",
+    option1: "Spine",
+    option2: "Skull",
+    option3: "Vertebra",
+    option4: "Pelvis",
+    ans: 2,
+  },
+  {
+    question: "Which nutrient has an important role in building muscles?",
+    option1: "Iron",
+    option2: "Fat",
+    option3: "Protein",
+    option4: "Carbohydrate",
+    ans: 3,
+  },
+];
